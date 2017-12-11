@@ -656,7 +656,7 @@ section h3.section-subheading {
     flex-flow: column wrap;
 	justify-content: center;
 	align-content: center;
-	align-items: stretch;
+	align-items: center;
 }
 .about-fixed{
     flex: 2 2 auto;
