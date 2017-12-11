@@ -661,7 +661,7 @@ section h3.section-subheading {
 .about-fixed{
     flex: 2 2 auto;
     order: 1;
-	align-self: auto;
+	align-self: center;
 }
 .about-flex-item{
     flex: 1 4 auto;
@@ -669,7 +669,7 @@ section h3.section-subheading {
 	align-self: auto;
 }
 /* Not Too narrow to support three columns */
-    @media(min-width:720px) {
+    @media(min-width:600px) {
         .about-container {
             flex-flow: row wrap;
 			justify-content: center;
