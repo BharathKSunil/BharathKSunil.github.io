@@ -8,53 +8,47 @@ description: "Results-driven and tenacious professional with an entrepreneurial 
 
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
+
+- name: Bharath Kumar S
   pic: 1
-  position: Lead Designer
+  position: Android Developer
   social:
     - title: twitter
-      url: #
+      url: http://www.twitter.com/bharathksunil
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: http://www.facebook.com/bharathk.sunil.k
+    - title: cloud
+      url: https://trailhead.salesforce.com/en/me/bharathksunil
+    - title: instagram
+      url: http://www.instagram.com/the._.developer
+    - title: github
+      url: http://github.com/bharathksunil
+    - title: quora
+      url: http://www.quora.com/bharath-kumar-s-9
     - title: linkedin
-      url: #
+      url: in.linkedin.com\in\bharath-kumar-s-1427b810b
+    - title: play
+      url: play.google.com\store\apps\dev?id=6734202426383547966&hl=en
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: http://fontawesome.io/cheatsheet/)
 social:
   - title: twitter
-    url: http://www.twitter.com/BharathkSunil
+    url: http://www.twitter.com/bharathksunil
   - title: facebook
     url: http://www.facebook.com/bharathk.sunil.k
-  - title: salesforce
+  - title: cloud
     url: https://trailhead.salesforce.com/en/me/bharathksunil
   - title: instagram
     url: http://www.instagram.com/the._.developer
   - title: github
-    url: http://github.com/BharathKSunil
-
+    url: http://github.com/bharathksunil
+  - title: quora
+    url: http://www.quora.com/bharath-kumar-s-9
+  - title: linkedin
+    url: in.linkedin.com\in\bharath-kumar-s-1427b810b
+  - title: play
+    url: play.google.com\store\apps\dev?id=6734202426383547966&hl=en
+    
 # Postal address (add as many lines as necessary)
 address:
   - line: p. 166/8 Golden Jubilee Complex
