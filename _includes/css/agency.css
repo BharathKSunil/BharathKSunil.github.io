@@ -659,14 +659,16 @@ section h3.section-subheading {
 	align-items: stretch;
 }
 .about-fixed{
-    flex: 1 1 auto;
+    flex: 2 1 auto;
     order: 1;
-	align-self: center;
+	align-self: stretch;
+	align-content: center;
 }
 .about-flex-item{
     flex: 1 1 auto;
     order: 2;
 	align-self: center;
+	align-content: center;
 }
 
 aside.clients img {
