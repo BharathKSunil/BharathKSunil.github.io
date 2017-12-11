@@ -653,9 +653,10 @@ section h3.section-subheading {
 }
 .about-container{
     display: flex;
+    flex-flow: row;
 }
 .about-fixed{
-    width: 200px;
+    width: auto;
 }
 .about-flex-item{
     flex-grow: 1;
