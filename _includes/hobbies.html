@@ -8,57 +8,16 @@
                 </div>
             </div>
             <div class="row text-center">
+				{% for hobby in site.hobbies %}
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-{{ hobby.icon }} fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Coding</h4>
-                    <p class="text-muted">The love for coding started when I was working on my 12<sup>th</sup> standard Computers project. <br/> The excitement and happiness you get, when you see what you have finally created is after hours of debugging is awesome, that's what drives me even today.</p>
+                    <h4 class="service-heading">{{ hobby.name }}</h4>
+                    <p class="text-muted">{{ hobby.description }}</p>
                 </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-pencil-square-o fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Pencil Sketching</h4>
-                    <p class="text-muted">I was inclined to sketching since I was small, I have contributed many articles and display boards in my primary and secondary schools. I do sketch now, but its really rare.!</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-gamepad fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Gaming</h4>
-                    <p class="text-muted">I Got to play on a PC when I was in 3<sup>rd</sup> or 4<sup>th</sup> Std where my mom used to work as a Computer Teacher. <br/> I started from Dave, Aladdin, Pac-Man &amp; slowly moved to NFS Most wanted then GTA Vice City &amp; now Playing Batman, GTA V &amp; Clash Of Clans.</p>
-                </div>
-            </div>
-			
-			<div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-cutlery fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Cooking</h4>
-                    <p class="text-muted">I Love Food.! &amp; I always love to pamper myself with great food. The best and Healthy way is to cook it yourself. I started cooking when I was in 3<sup>rd</sup>Std. I cook a very small variety of food from Indian to Chineese to Italian.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-music fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Dancing</h4>
-                    <p class="text-muted"> It took a while for me to let go of my fear of performing on stage. I dance Hip-Hop, Contemporary &amp; Break-Dance. Performed and Choreographed on many occasions &amp; also in front of a huge crowd.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-list fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Many More</h4>
-                    <p class="text-muted">I do a lot more than I can mention here. So, lets meet and talk about it ;p</p>
-                </div>
+				{% endfor %}
             </div>
         </div>
     </section>

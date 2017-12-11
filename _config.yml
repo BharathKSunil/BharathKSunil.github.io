@@ -6,6 +6,26 @@ title: Bharath Kumar S
 email: bharathk.sunil.k@gmail.com
 description: "Results-driven and tenacious professional with an entrepreneurial spirit offering high calibre strengths in building and driving superior operation success and strategic planning. Posses a robust background in Android App development with compliance to best coding standards. Resilient and organised with well-anchored problem solving skills coupled with extraordinary attention to detail and the willingness to go above and beyond the job description."
 
+# Mention the name of the hobby, a short description and the font-awesome icon tag
+hobbies:
+- name: Coding
+  description: "The love for coding started when I was working on my 12<sup>th</sup> standard Computers project. <br/> The excitement and happiness you get, when you see what you have finally created is after hours of debugging is awesome, that's what drives me even today."
+  icon: code
+- name: Pencil Sketching
+  description: "I was inclined to sketching since I was small, I have contributed many articles and display boards in my primary and secondary schools. I do sketch now, but its really rare.!"
+  icon: "pencil-square-o"
+- name: Gaming
+  description: "I Got to play on a PC when I was in 3<sup>rd</sup> or 4<sup>th</sup> Std where my mom used to work as a Computer Teacher. <br/> I started from Dave, Aladdin, Pac-Man &amp; slowly moved to NFS Most wanted then GTA Vice City &amp; now Playing Batman, GTA V &amp; Clash Of Clans."
+  icon: gamepad
+- name: Cooking
+  description: "I Love Food.! &amp; I always love to pamper myself with great food. The best and Healthy way is to cook it yourself. I started cooking when I was in 3<sup>rd</sup>Std. I cook a very small variety of food from Indian to Chineese to Italian."
+  icon: "cutlery"
+- name: Dancing
+  description: "It took a while for me to let go of my fear of performing on stage. I dance Hip-Hop, Contemporary &amp; Break-Dance. Performed and Choreographed on many occasions &amp; also in front of a huge crowd."
+  icon: music
+- name: Many More
+  description: "I do a lot more than I can mention here. So, lets meet and talk about it ;p"
+  icon: list
 
 # Team names, titles and social links
 people:
@@ -29,7 +49,8 @@ people:
       url: "https://in.linkedin.com/in/bharath-kumar-s-1427b810b"
     - title: play
       url: "https://play.google.com/store/apps/dev?id=6734202426383547966&hl=en"
-
+  description:"Hello There..!<br />I am Bharath Kumar S from Dr.AIT Bengaluru.<br />My father is an Officer in the Indian Air Force and I have done my schooling in various Kendriya Vidyalaya's across India.I am a self-taught <b>Android Developer</b> with over a year of experience in developing Android Applications.<b>I have 2 apps in my Google Play Store</b>. My first app is a Expenditure management app with <b>over 500 downloads and 4.8 Rating by 82 users.</b><br />My second app was an event management app for Sanskruthi 2017, it was <b>built in 7 days by team of 4, sucessfully lead by me.</b> I am currently working on 2 apps, one for women safety. It is a unique concept which isn't in the market. And I am building an app for a tech startup company Ubuyquick.com<br /><br />I have experience with working on Android Framework, Java, SQL, NoSQL, Firebase, PHP, Servers and currently learning cloud on AWS. I love to play games and volleyball is my favourite outdoor game followed by cricket and football.I love technology and am always excited to read and know about them."
+  
 # Social networks usernames (many more available: http://fontawesome.io/cheatsheet/)
 social:
   - title: twitter
