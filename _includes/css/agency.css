@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.png');
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -651,32 +651,6 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
-.about-container{
-    display: flex;
-    flex-flow: column wrap;
-	justify-content: center;
-	align-content: center;
-	align-items: center;
-}
-.about-fixed{
-    flex: 2 2 auto;
-    order: 1;
-	align-self: center;
-}
-.about-flex-item{
-    flex: 1 4 auto;
-    order: 2;
-	align-self: auto;
-}
-/* Not Too narrow to support three columns */
-    @media(min-width:600px) {
-        .about-container {
-            flex-flow: row wrap;
-			justify-content: center;
-			align-content: stretch;
-			align-items: center;
-        }
-    }
 
 aside.clients img {
     margin: 50px auto;
@@ -684,7 +658,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/map-image.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
