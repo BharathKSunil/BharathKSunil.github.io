@@ -659,21 +659,22 @@ section h3.section-subheading {
 	align-items: stretch;
 }
 .about-fixed{
-    flex: 2 1 auto;
+    flex: 2 2 auto;
     order: 1;
-	align-self: stretch;
-	align-content: center;
+	align-self: auto;
 }
 .about-flex-item{
-    flex: 1 1 auto;
+    flex: 1 4 auto;
     order: 2;
-	align-self: center;
-	align-content: center;
+	align-self: auto;
 }
-/* Too narrow to support three columns */
-    @media all and (max-width: 640px) {
+/* Not Too narrow to support three columns */
+    @media(min-width:720px) {
         .about-container {
             flex-flow: row wrap;
+			justify-content: center;
+			align-content: stretch;
+			align-items: center;
         }
     }
 
