@@ -653,15 +653,20 @@ section h3.section-subheading {
 }
 .about-container{
     display: flex;
-    flex-flow: row;
+    flex-flow: column wrap;
+	justify-content: center;
+	align-content: center;
+	align-items: stretch;
 }
 .about-fixed{
-    flex: 3 1 50%;
-    order: 2;
+    flex: 1 1 auto;
+    order: 1;
+	align-self: center;
 }
 .about-flex-item{
-    flex: 1 6 50%;
-    order: 1;
+    flex: 1 1 auto;
+    order: 2;
+	align-self: center;
 }
 
 aside.clients img {
