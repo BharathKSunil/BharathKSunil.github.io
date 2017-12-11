@@ -656,10 +656,12 @@ section h3.section-subheading {
     flex-flow: row;
 }
 .about-fixed{
-    width: auto;
+    flex: 3 1 50%;
+    order: 2;
 }
 .about-flex-item{
-    flex-grow: 1;
+    flex: 1 6 50%;
+    order: 1;
 }
 
 aside.clients img {
