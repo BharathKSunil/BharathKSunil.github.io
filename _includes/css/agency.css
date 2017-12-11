@@ -651,6 +651,15 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
+.about-container{
+    display: flex;
+}
+.about-fixed{
+    width: 200px;
+}
+.about-flex-item{
+    flex-grow: 1;
+}
 
 aside.clients img {
     margin: 50px auto;
