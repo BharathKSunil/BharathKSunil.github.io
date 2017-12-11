@@ -1,0 +1,67 @@
+url: https://bharathksunil.github.io
+# baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Bharath Kumar S
+email: bharathk.sunil.k@gmail.com
+description: "Results-driven and tenacious professional with an entrepreneurial spirit offering high calibre strengths in building and driving superior operation success and strategic planning. Posses a robust background in Android App development with compliance to best coding standards. Resilient and organised with well-anchored problem solving skills coupled with extraordinary attention to detail and the willingness to go above and beyond the job description."
+
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://www.twitter.com/BharathkSunil
+  - title: facebook
+    url: http://www.facebook.com/bharathk.sunil.k
+  - title: salesforce
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: instagram
+    url: http://www.instagram.com/the._.developer
+  - title: github
+    url: http://github.com/BharathKSunil
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: p. 166/8 Golden Jubilee Complex
+  - line: Air Force Officers Enclave, Arillery Road
+  - line: Agram P.O., Bengaluru - 560007
+  - line: Karnataka, India 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
