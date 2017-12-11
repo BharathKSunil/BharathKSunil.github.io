@@ -670,6 +670,12 @@ section h3.section-subheading {
 	align-self: center;
 	align-content: center;
 }
+/* Too narrow to support three columns */
+    @media all and (max-width: 640px) {
+        .about-container {
+            flex-flow: row wrap;
+        }
+    }
 
 aside.clients img {
     margin: 50px auto;
