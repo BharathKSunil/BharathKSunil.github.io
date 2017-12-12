@@ -8,8 +8,8 @@
                 </div>
             </div>
 			<div class="row text-center">
+				<!-- <div class="col-md-4"> -->
 				{% for member in site.people %}
-				<div class="col-lg-4">
 					<div class="team-member">
 						<img src="{{ member.pic }}" class="img-responsive img-circle" alt="My Profile Picture">
 						<h4>{{ member.name }}</h4>
@@ -17,16 +17,16 @@
 						<ul class="list-inline social-buttons">
 							{% for network in member.social %}
 							<li>
-								<a href="{{ network.url }}">
+								<a href="{{ network.url }}" target="_blank">
 									<i class="fa fa-{{ network.title }}"></i>
 								</a>
 							</li>
 							{% endfor %}
 						</ul>
-						<p class="large text-muted" style="text-align: justify;">{{ member.description }}</p>
+						<p class="large text-muted" style="text-align: center;">{{ member.description }}</p>
 					</div>
-				</div>
 				{% endfor %}
+				<!-- </div> -->
 			</div>
         </div>
     </section>
