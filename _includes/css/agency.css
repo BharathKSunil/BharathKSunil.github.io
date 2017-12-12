@@ -642,11 +642,13 @@ section h3.section-subheading {
 	float: left;
     margin: 0 auto;
     border: 7px solid #fff;
+	max-height: 40%;
+	max-width: 60%;
 }
 
 .team-member h4 {
-	float: left;
-    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 0;
     text-transform: none;
 }
 
