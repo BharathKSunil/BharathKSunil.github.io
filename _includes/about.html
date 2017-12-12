@@ -13,7 +13,7 @@
 					<div class="team-member">
 						<img src="{{ member.pic }}" class="img-responsive img-circle" alt="My Profile Picture">
 						<h4>{{ member.name }}</h4>
-						<p class="text-muted">{{ member.position }}</p>
+						<h6 class="text-muted">{{ member.position }}</h6>
 						<ul class="list-inline social-buttons">
 							{% for network in member.social %}
 							<li>
@@ -23,7 +23,7 @@
 							</li>
 							{% endfor %}
 						</ul>
-						<p class="large text-muted" style="text-align: center;">{{ member.description }}</p>
+						<p class="large text-muted" style="text-align: justify;">{{ member.description }}</p>
 					</div>
 				{% endfor %}
 				<!-- </div> -->
