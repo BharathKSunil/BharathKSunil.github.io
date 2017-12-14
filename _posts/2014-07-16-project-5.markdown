@@ -7,7 +7,7 @@ date: 2014-07-16
 img: ubuyquick.jpg
 thumbnail: ubuyquick-thumbnail.jpg
 alt: image-alt
-project-date: Jul 2017
+project-date: Coming Soon
 message: Under Development
 link: "http://ubuyquick.com/"
 category: Android -InDevelopment
