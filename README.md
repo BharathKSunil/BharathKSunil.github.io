@@ -13,8 +13,8 @@ Hi this is a my portfolio hosted by Github Pages by using [jekyll](http://jekyll
   - If you need a section add it as ```sectionname.html``` in the [_includes Directory](/_includes/) and don't forget to include it in the [default.html](/_layouts/default.html). The same applies for, when you rename or remove a html file.
 
 ## Live Demo
-To see how this portfolio looks like, see [here](https://bharathksunil.github.io)
-View the original source [here](https://y7kim.github.io/agency-jekyll-theme)
+To see how this portfolio looks like, see [here](https://bharathksunil.github.io)  
+View the original source, see [here](https://y7kim.github.io/agency-jekyll-theme)
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
