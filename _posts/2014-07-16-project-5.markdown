@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-16
 img: ubuyquick.jpg
-thumbnail: ubuyquick-thumbnail.png
+thumbnail: ubuyquick-thumbnail.jpg
 alt: image-alt
 project-date: Jul 2017
 message: Under Development

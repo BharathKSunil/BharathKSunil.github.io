@@ -4,8 +4,8 @@ subtitle: Web Development
 layout: default
 modal-id: 4
 date: 2017-12-15
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: portfolio.png
+thumbnail: portfolio-thumbnail.png
 alt: image-alt
 project-date: December 2017
 message: View Source
