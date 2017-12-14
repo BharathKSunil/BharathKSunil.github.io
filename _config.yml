@@ -6,6 +6,36 @@ title: Bharath Kumar S
 email: bharathk.sunil.k@gmail.com
 description: "Results-driven &amp; tenacious professional with an entrepreneurial spirit offering high calibre strengths in building &amp; driving superior operation success &amp; strategic planning. Posses a robust background in Android App development with compliance to best coding standards. Resilient &amp; organised with well-anchored problem solving skills coupled with extraordinary attention to detail &amp; the willingness to go above &amp; beyond the job description."
 
+intro-lead: Hello World.!
+intro-heading: It's Nice To Meet You
+intro-button: Know About Me
+
+# These are the sections in your page---NOTE: Remember, this is kept here for easy editing
+section1: Education
+section1-subhead: ""Education Is Not The Learning of Facts, But The Training of Minds to Think" - <i>Albert Einstein</i>"
+section1-id: education
+
+section2: Projects
+section2-subhead: My Projects Can Best Describe My Skills
+section2-id: projects
+
+section3: Hobbies
+section3-subhead: Here Are Some Of My Hobbies
+section3-id: hobbies
+
+section4: About
+section4-subhead: Let Me Explain Somethings About Myself
+section4-id: about
+
+section5: Achievements
+section5-subhead: Here Are Some Achievements I Have Earned
+section5-id: achievements
+
+section6: Contact Me
+section6-subhead: Feel Free To Contact Me With Any Feedback or Queries
+section6-id: contact
+
+
 # Mention the name of the hobby, a short description and the font-awesome icon tag
 hobbies:
 - name: Coding
@@ -59,13 +89,6 @@ social:
     url: "http://www.facebook.com/bharathk.sunil.k"
   - title: instagram
     url: "http://www.instagram.com/the._.developer"
-    
-# Postal address (add as many lines as necessary)
-address:
-  - line: p. 166/8 Golden Jubilee Complex
-  - line: Air Force Officers Enclave, Arillery Road
-  - line: Agram P.O., Bengaluru - 560007
-  - line: Karnataka, India 
 
 # Build settings
 markdown: kramdown

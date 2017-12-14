@@ -19,22 +19,22 @@
                         <a href="#page-top"></a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="#education">Education</a>
+                        <a class="page-scroll" href="#{{ site.section1-id }}">{{ site.section1 }}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#projects">Projects</a>
+                        <a class="page-scroll" href="#{{ site.section2-id }}">{{ site.section2 }}</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="#hobbies">Hobbies</a>
+                        <a class="page-scroll" href="#{{ site.section3-id }}">{{ site.section3 }}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#{{ site.section4-id }}">{{ site.section4 }}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#achievements">Achievements</a>
+                        <a class="page-scroll" href="#{{ site.section5-id }}">{{ site.section5 }}</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#{{ site.section6-id }}">{{ site.section6 }}</a>
                     </li>
                 </ul>
             </div>
@@ -47,9 +47,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Hello World.!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#education" class="page-scroll btn btn-xl">Know About Me</a>
+                <div class="intro-lead-in">{{ site.intro-lead }}</div>
+                <div class="intro-heading">{{ site.intro-heading }}</div>
+                <a href="#education" class="page-scroll btn btn-xl">{{ site.intro-button }}</a>
             </div>
         </div>
     </header>
