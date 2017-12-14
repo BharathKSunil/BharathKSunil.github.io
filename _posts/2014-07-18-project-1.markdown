@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: "Clean Slate, Expense Manager" 
+subtitle: Android App
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 27-Aug-2016
+img: cleanslate.jpg
+thumbnail: cleanslate-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2015
+message: Download Now For Android
+link: "https://play.google.com/store/apps/details?id=com.wix.bharathksunilk.cleanslate"
+category: Android
+description: "This was my first app that was deployed on 29th August to the playstore after a rigourous 2 months of development and learning. Things had to be modernized, Those were old days when we used expenditure diary in which you kept entering your expenditures into at the end of each day while recalling where and how much you spent. Using Clean Slate capture expenses as soon as you make one. <br/ >All Expenses in One Place: Sync Your Bank and Cash Payments. <br/ >Reminders: So that you can be 'Late Payment' free. <br/ >Exporting Expenses: Export expenditures to a CSV/Excel file. <br/ >Budgeting: You Can Plan a Monthly budget and Monitor it. <br/ >Simple & Elegant UI/UX: Its a Promise you Won't find this simple UI. <br/ >SMS Scanning: Made A Phone Recharge? Withdrew Money From ATM? Made a Card Purchase While Shopping?? I can Remind You To Add It To your Debits. <br/ >Simple Design: Add Your Income As Credit and I shall Calculate The Savings U Made. <br/ >Visual Representation: Pie Chart To Show Expenditure Across Various Categories. <br/ >Accounting: Store and Review All Your Months Debits And Credits. <br/ >Security: Password Protected.."
 
 ---

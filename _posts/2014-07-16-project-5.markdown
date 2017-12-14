@@ -1,0 +1,16 @@
+---
+title: "UBuyQuick - Vendor"
+subtitle: Android App
+layout: default
+modal-id: 5
+date: 2014-07-16
+img: ubuyquick.jpg
+thumbnail: ubuyquick-thumbnail.png
+alt: image-alt
+project-date: Jul 2017
+message: Under Development
+link: "http://ubuyquick.com/"
+category: Android -InDevelopment
+description: "UBuyQuick is an upcoming startup based in bangalore with high spirits to beat the masters like Amazon Now, Groffers etc... I am responsible to build their Vendor application which can register new vendors, recieve realtime orders, manage billing and many more."
+
+---

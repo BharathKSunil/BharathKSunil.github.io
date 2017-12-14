@@ -1,15 +1,16 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Walk Safe, A Women Safety App
+subtitle: Android App
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: walksafe.jpg
+thumbnail: walksafe-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Jan 2017
+message: Under Development
+link: "#"
+category: Android -InDevelopment
+description: "WalkSafe is an Android application that’s made to aid women safety. The idea for developing WalkSafe comes from the “Black Box” of an aeroplane, which keeps track of all the data related to aeroplane and its functioning. WalkSafe will maintain a record of user’s location, visual data and reports it to their respective Guardian and the Police."
 
 ---
