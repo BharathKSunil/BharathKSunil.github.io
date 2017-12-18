@@ -1,31 +1,31 @@
 url: https://bharathksunil.github.io
-# baseurl: /agency-jekyll-theme/
+# baseurl: 
 
 # Site settings
 title: Bharath Kumar S
 email: bharathk.sunil.k@gmail.com
-description: "Results-driven &amp; tenacious professional with an entrepreneurial spirit offering high calibre strengths in building &amp; driving superior operation success &amp; strategic planning. Posses a robust background in Android App development with compliance to best coding standards. Resilient &amp; organised with well-anchored problem solving skills coupled with extraordinary attention to detail &amp; the willingness to go above &amp; beyond the job description."
+description: "I am a Results-driven &amp; tenacious professional with an entrepreneurial spirit offering high calibre strengths in building &amp; driving superior operation success &amp; strategic planning. Posses a robust background in Android App development with compliance to best coding standards. Resilient &amp; organised with well-anchored problem solving skills coupled with extraordinary attention to detail &amp; the willingness to go above &amp; beyond the job description. Hire Me Now."
 
-intro-lead: Hello World.!
-intro-heading: It's Nice To Meet You
+intro-lead: Hello, Welcome.!
+intro-heading: It's Nice To Meet You...
 intro-button: Know About Me
 
 # These are the sections in your page---NOTE: Remember, this is kept here for easy editing
-section1: Education
-section1-subhead: "\"Education Is Not The Learning of Facts, But The Training of Minds to Think\" - <i>Albert Einstein</i>"
-section1-id: education
+section1: About
+section1-subhead: Let Me Give you a Brief Introducion about Myself
+section1-id: about
 
-section2: Projects
-section2-subhead: My Projects Can Best Describe My Skills
-section2-id: projects
+section2: Education
+section2-subhead: "\"Education Is Not The Learning of Facts, But The Training of Minds to Think\" - <i>Albert Einstein</i>"
+section2-id: education
 
-section3: Hobbies
-section3-subhead: Here Are Some Of Things I Love Doing When I Relax
-section3-id: hobbies
+section3: Projects
+section3-subhead: My Projects Can Best Describe My Skills
+section3-id: projects
 
-section4: About
-section4-subhead: Let Me Give you a Brief Introducion about Myself
-section4-id: about
+section4: Hobbies
+section4-subhead: Here Are Some Of Things I Love Doing When I Relax
+section4-id: hobbies
 
 section5: Achievements
 section5-subhead: Here Are Some Achievements I Have Earned
