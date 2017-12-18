@@ -20,7 +20,7 @@ section2-subhead: My Projects Can Best Describe My Skills
 section2-id: projects
 
 section3: Hobbies
-section3-subhead: Here Are Some Of My Hobbies
+section3-subhead: Here Are Some Of Things I Love Doing When I Relax
 section3-id: hobbies
 
 section4: About
@@ -32,26 +32,26 @@ section5-subhead: Here Are Some Achievements I Have Earned
 section5-id: achievements
 
 section6: Contact Me
-section6-subhead: Feel Free To Contact Me With Any Feedback or Queries
+section6-subhead: Loved it? Hire Me.! or Feel Free To Contact Me With Any Feedback or Queries
 section6-id: contact
 
 
 # Mention the name of the hobby, a short description and the font-awesome icon tag
 hobbies:
 - name: Coding
-  description: "That feelng of Accomplishment mixed with Exictement you experience when you have sucessfully Compiled &amp; Run the code you just wrote &amp; debugged is Addictive."
+  description: "That feelng of Accomplishment mixed with Exictement I experience when I have sucessfully Compiled &amp; Run the code I just wrote &amp; debugged is Addictive."
   icon: code
 - name: Pencil Sketching
-  description: "Inclination towards sketching began since I was small, I have contributed my art to many magazines &amp; display boards in school."
+  description: "Inclination towards sketching began since I was small, I have contributed my art to many magazines &amp; display boards at school."
   icon: "pencil-square-o"
 - name: Gaming
-  description: "I Got to play on a PC when I was in 3<sup>rd</sup> or 4<sup>th</sup> Std. <br/>It started from Dave, Aladdin, Pac-Man &amp; slowly moved to NFS Most wanted then GTA Vice City &amp; now Playing Batman, GTA V &amp; Clash Of Clans."
+  description: "I Got to play on a PC when I was in 3<sup>rd</sup> or 4<sup>th</sup> Std. <br/>I started playing games like Dave, Aladdin, Pac-Man &amp; slowly moved to NFS Most wanted then GTA Vice City &amp; now Playing Batman, GTA V &amp; Clash Of Clans."
   icon: gamepad
 - name: Cooking
-  description: "I Love Food.! &amp; I always love to pamper myself with great food. The best &amp; Healthy way is to cook it yourself. I started cooking when I was young. I cook a variety of food from Indian to Chineese to Italian."
+  description: "I Love Food.! &amp; I always love to pamper myself with great food &amp; Its best to cook it ourself to stay healthy. I started cooking when I was young. I cook a variety of food from Indian to Chineese to Italian."
   icon: cutlery
 - name: Dancing
-  description: "I had a transition form fear of performing on stage to many Dance Performances &amp; a few Choreographs. I can dance Hip-Hop, Contemporary &amp; Break-Dance."
+  description: "I had a transition from fear of performing on stage to many Dance Performances &amp; a few Choreographs. I can dance Hip-Hop, Contemporary &amp; Break-Dance."
   icon: music
 - name: Many More
   description: "I do a lot more than I can mention here. So, lets meet &amp; talk about it ;p"
@@ -66,7 +66,7 @@ people:
     - title: twitter
       url: "http://www.twitter.com/bharathksunil"
     - title: facebook
-      url: "http://www.facebook.com/bharathk.sunil.k"
+      url: "http://www.facebook.com/bharathksunil"
     - title: cloud
       url: "https://trailhead.salesforce.com/en/me/bharathksunil"
     - title: instagram
@@ -76,17 +76,17 @@ people:
     - title: quora
       url: "http://www.quora.com/bharath-kumar-s-9"
     - title: linkedin
-      url: "https://in.linkedin.com/in/bharath-kumar-s-1427b810b"
+      url: "https://in.linkedin.com/in/bharathksunil"
     - title: play
       url: "https://play.google.com/store/apps/dev?id=6734202426383547966&hl=en"
-  description: "Hello There..! I am Bharath Kumar S from Bengaluru, India. My father is an Officer in the Indian Air Force &amp; that explains why I have done my schooling in various Kendriya Vidyalaya's across India. Its also why I can Socialize &amp; Acclimatize very fast. I try to be Simple, Happy &amp; Organised.<br /><br />I am also a self-taught <b>Android Developer</b> with over a year of experience in developing Android Applications. <b>I have 2 apps in my Google Play Store</b>. My first app is a Expenditure management app with <b>over 500 downloads &amp; 4.8 Rating by 82 users.</b> I am currently working on 3 different projects; <br /><b>WalkSafe:</b> A Woman Safety mobile application<br /><b>UBuyQuick-Vendor:</b> A vendor application for a bangalore startup.<br /><b>Salesforce Helper:</b> A java based application to help me track performance of students on Trailhead. <br /> <br />I have experience with working on Android Framework, Java, SQL, NoSQL, Firebase, PHP &amp; currently learning cloud on AWS and Salesforce. I love to play games &amp; volleyball is my favourite outdoor game followed by cricket &amp; football. I love technology &amp; am always excited to read &amp; know about them."
-  
+  description: "Hello There..! I am Bharath Kumar S from Bengaluru, India. My father is an Officer in the Indian Air Force &amp; that explains why I have done my schooling in various Kendriya Vidyalaya's across India. Its also why I can Socialize &amp; Acclimatize very fast. I try to be Organised, Happy &amp; Simple.<br /><br />I am also a self-taught <b>Android Developer</b> with over a year of experience in developing Android Applications. <b>I have deployed 2 of my apps in the Google Play Store</b>. My first app is a Expenditure management app with <b>over 500 downloads &amp; 4.8 Rating by 82 users.</b> I am currently working on 3 different projects; <br /><b>WalkSafe:</b> A Woman Safety mobile application<br /><b>UBuyQuick-Vendor:</b> A vendor application for a bangalore startup.<br /><b>Salesforce Helper:</b> A java based application to help me track performance of students on Trailhead. <br /> <br />I have experience with working on Android Framework, Java, SQL, NoSQL, Firebase, PHP &amp; currently learning cloud on AWS and Salesforce. I love to play games &amp; volleyball is my favourite outdoor game followed by cricket &amp; football. I am very passionate about technology &amp; am always excited to read &amp; know about them."
+
 # Social networks usernames (many more available: http://fontawesome.io/cheatsheet/)
 social:
   - title: twitter
     url: "http://www.twitter.com/bharathksunil"
   - title: facebook
-    url: "http://www.facebook.com/bharathk.sunil.k"
+    url: "http://www.facebook.com/bharathksunil"
   - title: instagram
     url: "http://www.instagram.com/the._.developer"
 
