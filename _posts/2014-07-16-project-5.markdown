@@ -1,16 +1,16 @@
 ---
-title: "UBuyQuick - Vendor"
+title: "Smart - Vendor"
 subtitle: Android App
 layout: default
 modal-id: 5
 date: 2014-07-16
-img: ubuyquick.jpg
-thumbnail: ubuyquick-thumbnail.jpg
+img: smart.jpg
+thumbnail: smart-thumbnail.jpg
 alt: image-alt
 project-date: Coming Soon
 message: Under Development
-link: "http://ubuyquick.com/"
+link: ""
 category: Android -InDevelopment
-description: "UBuyQuick is an upcoming startup based in bangalore with high spirits to beat the masters like Amazon Now, Groffers etc... I am responsible to build their Vendor application which can register new vendors, recieve realtime orders, manage billing and many more."
+description: "Smart is an Android application for the Shopkeepers which is being built to make them smarter and modernize their shops... Smart can register new vendors, recieve realtime orders, manage billing, keep track of Credits of users and many more. The Project is currently paused as there are no investors"
 
 ---

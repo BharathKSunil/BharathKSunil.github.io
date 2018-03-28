@@ -28,11 +28,11 @@ section4-subhead: Here Are Some Of Things I Love Doing When I Relax
 section4-id: hobbies
 
 section5: Achievements
-section5-subhead: Here Are Some Achievements I Have Earned
+section5-subhead: Here Are Some of my Achievements
 section5-id: achievements
 
 section6: Contact Me
-section6-subhead: Loved it? Hire Me.! or Feel Free To Contact Me With Any Feedback or Queries
+section6-subhead: Am I Who You are Looking For? Hire Me.! or Feel Free To Contact Me With Any Feedback or Queries.
 section6-id: contact
 
 
@@ -79,7 +79,7 @@ people:
       url: "https://in.linkedin.com/in/bharathksunil"
     - title: play
       url: "https://play.google.com/store/apps/dev?id=6734202426383547966&hl=en"
-  description: "Hello There..! I am Bharath Kumar S from Bengaluru, India. My father is an Officer in the Indian Air Force &amp; that explains why I have done my schooling in various Kendriya Vidyalaya's across India. Its also why I can Socialize &amp; Acclimatize very fast. I try to be Organised, Happy &amp; Simple.<br /><br />I am also a self-taught <b>Android Developer</b> with over a year of experience in developing Android Applications. <b>I have deployed 2 of my apps in the Google Play Store</b>. My first app is a Expenditure management app with <b>over 500 downloads &amp; 4.8 Rating by 82 users.</b> I am currently working on 3 different projects; <br /><b>WalkSafe:</b> A Woman Safety mobile application<br /><b>UBuyQuick-Vendor:</b> A vendor application for a bangalore startup.<br /><b>Salesforce Helper:</b> A java based application to help me track performance of students on Trailhead. <br /> <br />I have experience with working on Android Framework, Java, SQL, NoSQL, Firebase, PHP &amp; currently learning cloud on AWS and Salesforce. I love to play games &amp; volleyball is my favourite outdoor game followed by cricket &amp; football. I am very passionate about technology &amp; am always excited to read &amp; know about them."
+  description: "Hello, I am Bharath Kumar S, a professional Android Developer from Bengaluru, India. I have over a year of experience in developing Native Android Applications. <b>I have sucessfully deployed 3 apps in the Google Play Store</b>. My first app is a Expenditure management app with <b>over 500 downloads &amp; 4.8 Rating by 82 users and 2 Event Management App for My College.</b> I am currently working on 2 different projects; <br /><b>WalkSafe:</b> A Woman Safety mobile application<br /><b>Salesforce Helper:</b> A java based application to help me track performance of students on Trailhead. <br /> <br />I have experience with working on Android Framework, Java, SQL, NoSQL, Firebase, PHP &amp; currently learning cloud on AWS and Salesforce. I love to play games &amp; volleyball is my favourite outdoor game followed by cricket &amp; football. I am very passionate about technology &amp; am always excited to read &amp; know about them. My father is an Officer in the Indian Air Force &amp; that explains why I have done my schooling in various Kendriya Vidyalaya's across India. Its also why I can Socialize &amp; Acclimatize very fast. I try to be Organised, Happy &amp; Simple.<br /><br />"
 
 # Social networks usernames (many more available: http://fontawesome.io/cheatsheet/)
 social:
